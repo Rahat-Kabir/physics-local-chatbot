@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+PyPDF2
+sentence-transformers
+pytest==7.4.3
+pytest-cov==4.1.0
+reportlab==4.0.8
+tensorflow
+rouge-score
+plotly
+scikit-learn
+pandas
+numpy

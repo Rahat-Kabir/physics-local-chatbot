@@ -1,0 +1,2 @@
+timestamp,response_time,response_length,question_similarity,context_similarity,equations_count,units_count,steps_count
+2024-12-07 01:21:03,242.71759128570557,313,0.7574746608734131,0.57699054479599,7,10,16
